@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 📚 I’m currently studying Computer Science Master at the Technical University of Munich.
+- 🔭 I’m currently working on approximating Hamiltonian systems.
+- 🌱 I’m currently learning Rust 🦀, game development 🎮, data science 🧪, and web development 🕸.
+- 📫 How to reach me: rahma (at) in.tum.de
+
 <!--
 **AlphaGergedan/AlphaGergedan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
