@@ -1,6 +1,7 @@
 ## AlphaGergedan (Atamert Rahma)
 
 - 📚 I’m currently studying Computer Science Master at the Technical University of Munich.
+- 📍 I am a PhD candidate in the Machine Learning group, at SCCS TUM, see my [page](https://www.cs.cit.tum.de/en/sccs/people/atamert-rahma/).
 - 🔭 I’m currently working on approximating Hamiltonian systems.
 - 🌱 I’m currently learning Rust 🦀, game development 🎮, data science 🧪, and web development 🕸.
 - 📫 How to reach me: rahma (at) in.tum.de
